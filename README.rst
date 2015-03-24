@@ -1,7 +1,8 @@
 board
 =====
 
-The One True Board for all future London Python Code Dojo challenges which involve a board
+Forked over from https://github.com/ldnpydojo/board
+I hope I'm able to consolidate all of the good ideas in the dojo teams and come up with a generic library
 
 Critical Requirements
 ---------------------
